@@ -1,0 +1,11 @@
+{
+	"description": "v120",
+	"name": "v120",
+	"homepage": "https://120gang.osc-fr1.scalingo.io/",
+	"license": "MIT",
+	"config": {
+		"platform": {
+			"php": "7.2"
+		}
+	}
+}
